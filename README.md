@@ -1,6 +1,6 @@
 # Simple-textArt-animator
 
-Animation maker in python
+
 A simple way to create cool animations in text art!
 Notes:
 Time in wait.txt is in milliseconds.
